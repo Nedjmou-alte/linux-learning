@@ -1,0 +1,3 @@
+pwd - show current directory
+ls - list files
+cd - change directory
